@@ -18,5 +18,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button that says 'Hello World'\", \"checked\": true}, {\"feature\": \"Implement a dropdown menu for selecting blockchain topics\", \"checked\": false}, {\"feature\": \"Create a search bar for finding specific blockchain information\", \"checked\": false}, {\"feature\": \"Add a section for latest news updates related to blockchain\", \"checked\": false}, {\"feature\": \"Include a user feedback form for suggestions and comments\", \"checked\": false}, {\"feature\": \"Design a homepage with a visually appealing layout showcasing top articles\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 128, \"time_taken\": \"0:00:02.203933\"}",
         "timestamp": "29082024044122",
         "message_id": "guest29082024044114"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will add a button that says hello world.",
+        "timestamp": "29082024044154",
+        "message_id": "guest29082024044153"
     }
 ]
